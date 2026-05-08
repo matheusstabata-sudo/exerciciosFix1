@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(/iamgens/Captura\ de\ tela\ 2026-05-08\ 080019.png);
+    width: 100vh;
+    background-size: 100% 100%;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-shadow: 0px 3px 5px gray;
+}
