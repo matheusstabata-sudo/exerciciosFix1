@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(/iamgens/Captura\ de\ tela\ 2026-05-08\ 080019.png);
+    background-image: url(/iamgens/Captura\ de\ tela\ 2026-05-08\ 080019.png) ;
     width: 100vh;
     background-size: 100% 100%;
     min-height: 100vh;
@@ -16,5 +16,6 @@ h1{
     display: flex;
     align-items: center;
     justify-content: center;
-    text-shadow: 0px 3px 5px gray;
+    text-shadow: 0px 3px 5px rgb(211, 15, 15);
 }
+
